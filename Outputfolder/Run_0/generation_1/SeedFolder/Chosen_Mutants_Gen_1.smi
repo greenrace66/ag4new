@@ -1,0 +1,10 @@
+C=C[C@@H](C)Oc1cccc(Sc2c(N=[N+]=N)c(N=[N+]=N)c(O)c3ccccc23)c1	(naphthalene_21+ZINC001226015757)Gen_1_Mutant_20_891560
+N=[N+]=Nc1c(Cl)c(OC[C@@H](N)C(=N)O)c2ccccc2c1N=[N+]=N	(naphthalene_14+ZINC000094437875)Gen_1_Mutant_71_872613
+Clc1ccc2sc(-c3cccc4ccccc34)cc2c1	(naphthalene_77+ZINC000090413339)Gen_1_Mutant_62_726751
+CC[C@@H](Cc1c(C)nnn1CCCOc1cccc2ccccc12)OC(C)C	(naphthalene_113+ZINC001204611285)Gen_1_Mutant_5_128035
+CCc1cc(COc2cc3ccccc3cc2C(=O)N=[N+]=[N-])on1	(naphthalene_95+ZINC000012398534)Gen_1_Mutant_19_676485
+N=[N+]=Nc1cc(N=[N+]=N)c2c3c1cccc3c1nc3c(NC(=O)c4ccco4)cccc3c(=O)n12	(naphthalene_10+ZINC001610649479)Gen_1_Mutant_44_87393
+N=[N+]=Nc1ccc2c3c1cccc3c1nc3ccc(N4CCCC4)cc3c(=O)n21	(naphthalene_41+ZINC000037930131)Gen_1_Mutant_44_719083
+NCCOc1cccc2ccccc12	(naphthalene_112)Gen_1_Mutant_11_171759
+N=[N+]=Nc1cc2ccccc2cc1N=C=S	(naphthalene_58)Gen_1_Mutant_10_622821
+Oc1cc(F)cc(CCc2cn(-c3cccc4ccccc34)nn2)c1	(naphthalene_100+ZINC001249948260)Gen_1_Mutant_5_20951

@@ -1,0 +1,333 @@
+MODEL 1
+REMARK VINA RESULT:      -8.5      0.000      0.000
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -69.614  20.291  22.315  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -69.157  21.126  23.338  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -69.889  21.246  24.529  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -69.440  22.075  25.565  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -70.177  22.187  26.747  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -71.384  21.481  26.905  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -71.825  20.637  25.878  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -71.093  20.517  24.688  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -71.540  19.681  23.653  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -70.801  19.571  22.471  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -72.149  21.558  28.079  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -72.121  22.615  28.995  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -72.814  23.654  28.808  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -71.354  22.480  30.157  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -71.690  23.110  31.390  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -72.638  22.294  32.135  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -72.282  21.238  32.661  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -71.928  20.183  33.186  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.1      5.031      6.390
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -67.920  25.281  25.830  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -69.194  25.090  26.372  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -69.838  23.850  26.239  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -71.112  23.643  26.783  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -71.744  22.404  26.645  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -71.114  21.357  25.947  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -69.833  21.555  25.420  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -69.190  22.794  25.553  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -67.910  22.999  25.014  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -67.280  24.240  25.153  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -71.710  20.095  25.795  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -72.517  19.705  24.720  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -73.666  19.219  24.915  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -72.051  19.914  23.418  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -71.019  19.131  22.824  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -70.105  19.981  22.075  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -68.933  20.111  22.428  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -67.761  20.240  22.781  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.9      2.559      3.602
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -67.952  23.593  25.043  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -68.288  24.634  25.912  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -69.383  24.502  26.780  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -69.728  25.535  27.661  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -70.820  25.392  28.521  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -71.592  24.216  28.504  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -71.238  23.174  27.638  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -70.144  23.308  26.771  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -69.795  22.269  25.894  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -68.702  22.415  25.033  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -72.690  24.028  29.358  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -73.903  24.722  29.283  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -74.286  25.243  28.198  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -74.716  24.783  30.419  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -75.489  23.679  30.884  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -75.136  23.356  32.259  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -73.972  23.452  32.649  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -72.809  23.547  33.039  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.4      4.053      4.682
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -68.748  24.809  26.229  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -68.197  23.956  27.189  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -68.873  23.725  28.397  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -68.335  22.868  29.366  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -69.017  22.644  30.565  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -70.243  23.287  30.818  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -70.792  24.128  29.844  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -70.116  24.359  28.637  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -70.659  25.213  27.664  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -69.974  25.435  26.464  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -70.965  23.082  32.005  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -72.160  22.361  32.112  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -73.228  22.798  31.600  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -72.141  21.117  32.750  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -71.050  20.668  33.550  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -70.959  21.456  34.771  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -69.885  21.585  35.358  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -68.812  21.714  35.946  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.1      3.105      4.097
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -67.305  24.099  24.842  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -66.968  24.893  25.941  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -67.521  24.622  27.203  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -67.187  25.407  28.314  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -67.744  25.129  29.566  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -68.654  24.067  29.721  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -68.974  23.269  28.616  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -68.421  23.540  27.356  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -68.751  22.749  26.244  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -68.193  23.030  24.992  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -69.227  23.747  30.961  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -70.392  24.319  31.487  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -70.792  25.450  31.097  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -71.141  23.587  32.415  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -72.105  22.607  32.039  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -72.072  21.484  32.965  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -71.033  21.183  33.554  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -69.996  20.883  34.142  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.0      4.480      5.196
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -68.773  24.948  26.440  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -67.991  24.406  27.462  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -68.509  24.294  28.762  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -67.737  23.746  29.796  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -68.263  23.639  31.086  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -69.566  24.090  31.365  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -70.346  24.619  30.330  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -69.828  24.731  29.031  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -70.604  25.273  27.995  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -70.076  25.381  26.704  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -70.135  23.991  32.644  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -71.119  23.071  33.024  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -71.034  21.856  32.690  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -72.174  23.509  33.830  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -73.060  24.559  33.452  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -74.336  24.012  33.014  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -74.453  23.504  31.898  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -74.571  22.997  30.783  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.9      4.946      5.834
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -68.908  24.821  26.742  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -68.539  24.284  27.978  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -69.397  24.400  29.082  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -69.042  23.861  30.325  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -69.905  23.982  31.418  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -71.132  24.658  31.286  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -71.498  25.181  30.040  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -70.639  25.064  28.937  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -70.999  25.598  27.689  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -70.133  25.476  26.598  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -72.032  24.793  32.355  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -73.335  24.284  32.386  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -73.547  23.041  32.328  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -74.402  25.175  32.540  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -74.505  26.400  31.818  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -75.354  26.227  30.647  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -76.581  26.234  30.752  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -77.807  26.242  30.857  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.7      3.442      4.318
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -67.460  23.943  24.864  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -67.674  24.825  25.926  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -68.606  24.510  26.927  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -68.827  25.382  28.001  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -69.757  25.058  28.992  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -70.490  23.860  28.917  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -70.257  22.977  27.856  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -69.326  23.293  26.855  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -69.101  22.414  25.784  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -68.170  22.742  24.792  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -71.426  23.492  29.896  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -72.811  23.665  29.799  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -73.601  22.703  30.013  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -73.312  24.939  29.514  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -73.230  26.030  30.427  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -74.556  26.381  30.918  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -75.564  26.067  30.284  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -76.572  25.755  29.651  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.7      3.442      4.438
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/naphthalene_29__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -67.095  24.678  25.143  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -66.976  25.331  26.372  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -67.528  24.760  27.530  0.00  0.00    -0.018 A 
+ATOM      4  C   LIG    1      -67.411  25.401  28.770  0.00  0.00    +0.012 A 
+ATOM      5  C   LIG    1      -67.965  24.824  29.916  0.00  0.00    +0.047 A 
+ATOM      6  C   LIG    1      -68.656  23.601  29.836  0.00  0.00    +0.136 A 
+ATOM      7  C   LIG    1      -68.758  22.950  28.601  0.00  0.00    +0.055 A 
+ATOM      8  C   LIG    1      -68.206  23.520  27.445  0.00  0.00    -0.014 A 
+ATOM      9  C   LIG    1      -68.317  22.874  26.204  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -67.763  23.454  25.058  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   6  11
+ATOM     11  O   LIG    1      -69.218  22.983  30.964  0.00  0.00    -0.395 OA
+BRANCH  11  12
+ATOM     12  C   LIG    1      -70.396  23.384  31.605  0.00  0.00    +0.518 C 
+ATOM     13  O   LIG    1      -70.449  24.472  32.242  0.00  0.00    -0.202 OA
+BRANCH  12  14
+ATOM     14  O   LIG    1      -71.535  22.583  31.481  0.00  0.00    -0.403 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -72.643  22.926  30.652  0.00  0.00    +0.469 C 
+BRANCH  15  16
+ATOM     16  N   LIG    1      -73.423  23.992  31.265  0.00  0.00    +0.118 NA
+ATOM     17  N   LIG    1      -74.412  23.734  31.952  0.00  0.00    -0.011 NA
+ATOM     18  N   LIG    1      -75.400  23.476  32.638  0.00  0.00    -0.328 NA
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  12  14
+ENDBRANCH  11  12
+ENDBRANCH   6  11
+TORSDOF 5
+ENDMDL

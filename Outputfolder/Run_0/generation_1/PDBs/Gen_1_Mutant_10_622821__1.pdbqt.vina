@@ -1,0 +1,232 @@
+MODEL 1
+REMARK VINA RESULT:      -7.6      0.000      0.000
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -71.333  20.945  25.716  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -71.948  20.834  26.967  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -71.419  21.514  28.075  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -72.034  21.421  29.331  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -71.521  22.115  30.434  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -70.319  22.860  30.293  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -69.727  22.980  29.028  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -70.263  22.313  27.920  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -69.655  22.416  26.659  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -70.191  21.734  25.563  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -72.279  22.081  31.651  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -72.153  21.178  32.479  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -72.026  20.279  33.311  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -69.641  23.464  31.404  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -68.468  23.950  31.313  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -66.984  24.567  31.198  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.5      4.748      6.428
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -72.350  19.208  23.904  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -71.163  19.590  23.271  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -70.310  20.523  23.879  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -69.111  20.904  23.261  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -68.247  21.819  23.875  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -68.628  22.424  25.104  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -69.809  22.014  25.736  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -70.654  21.073  25.135  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -71.849  20.681  25.760  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -72.691  19.751  25.144  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -66.978  22.057  23.249  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -66.169  21.153  23.037  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -65.361  20.251  22.819  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -67.880  23.485  25.714  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -68.303  24.130  26.728  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -68.836  24.945  28.012  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.5      3.842      5.714
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -70.600  19.357  22.061  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -69.607  20.244  22.487  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -69.713  20.872  23.738  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -68.717  21.753  24.182  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -68.809  22.365  25.438  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -69.964  22.148  26.238  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -70.939  21.239  25.807  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -70.827  20.602  24.565  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -71.817  19.709  24.125  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -71.701  19.090  22.877  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -67.690  23.145  25.880  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -66.547  22.689  25.925  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -65.403  22.238  25.967  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -70.211  22.859  27.459  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -71.145  22.541  28.264  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -72.325  22.138  29.284  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.4      3.076      4.141
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -71.543  19.083  22.876  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -71.866  19.521  24.164  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -71.064  20.480  24.804  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -71.385  20.936  26.089  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -70.600  21.908  26.722  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -69.421  22.379  26.082  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -69.124  21.947  24.783  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -69.931  21.001  24.139  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -69.618  20.553  22.846  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -70.423  19.598  22.219  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -71.065  22.424  27.977  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -71.319  21.693  28.935  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -71.569  20.966  29.896  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -68.479  23.248  26.726  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -67.801  24.120  26.091  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -66.945  25.224  25.289  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.1      4.191      5.768
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -65.729  24.433  23.892  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -66.533  25.124  24.804  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -67.678  24.512  25.338  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -68.484  25.190  26.262  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -69.615  24.575  26.813  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -69.990  23.278  26.371  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -69.162  22.590  25.474  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -68.012  23.194  24.952  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -67.196  22.511  24.036  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -66.059  23.131  23.510  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -70.313  25.277  27.851  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -69.753  25.655  28.881  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -69.196  26.039  29.909  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -71.217  22.645  26.762  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -71.636  21.566  26.230  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -72.165  20.200  25.559  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.1      5.127      6.786
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -73.556  29.133  33.980  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -73.924  27.785  34.031  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -73.584  26.922  32.978  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -73.935  25.566  33.024  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -73.579  24.697  31.985  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -72.919  25.214  30.837  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -72.537  26.562  30.812  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -72.865  27.421  31.868  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -72.501  28.776  31.829  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -72.846  29.626  32.883  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -73.854  23.300  32.164  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -72.977  22.492  32.471  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -72.104  21.682  32.782  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -72.664  24.428  29.665  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -72.844  24.872  28.485  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -73.071  25.435  26.993  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.1      3.806      5.375
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -65.021  23.013  24.095  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -65.406  23.267  25.415  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -66.741  23.086  25.807  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -67.136  23.325  27.130  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -68.463  23.125  27.529  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -69.435  22.749  26.563  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -69.030  22.476  25.249  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -67.694  22.644  24.861  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -67.296  22.392  23.539  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -65.963  22.577  23.161  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -68.764  23.258  28.926  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -67.889  23.241  29.792  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -67.015  23.228  30.659  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -70.838  22.681  26.853  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -71.614  23.684  26.741  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -72.596  24.954  26.597  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.8      9.313     10.635
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Mutant_10_622821__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -64.192  16.054  19.562  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1      -63.957  17.252  20.245  0.00  0.00    +0.008 A 
+ATOM      3  C   LIG    1      -64.044  17.293  21.645  0.00  0.00    -0.016 A 
+ATOM      4  C   LIG    1      -63.798  18.484  22.342  0.00  0.00    +0.045 A 
+ATOM      5  C   LIG    1      -63.863  18.523  23.740  0.00  0.00    +0.174 A 
+ATOM      6  C   LIG    1      -64.258  17.359  24.455  0.00  0.00    +0.107 A 
+ATOM      7  C   LIG    1      -64.467  16.162  23.758  0.00  0.00    +0.039 A 
+ATOM      8  C   LIG    1      -64.367  16.118  22.361  0.00  0.00    -0.016 A 
+ATOM      9  C   LIG    1      -64.601  14.922  21.664  0.00  0.00    +0.008 A 
+ATOM     10  C   LIG    1      -64.512  14.894  20.270  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   5  11
+ATOM     11  N   LIG    1      -63.468  19.740  24.389  0.00  0.00    +0.118 NA
+ATOM     12  N   LIG    1      -64.197  20.731  24.430  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -64.927  21.721  24.477  0.00  0.00    -0.328 NA
+ENDBRANCH   5  11
+BRANCH   6  14
+ATOM     14  N   LIG    1      -64.505  17.359  25.868  0.00  0.00    -0.195 NA
+ATOM     15  C   LIG    1      -64.449  16.302  26.576  0.00  0.00    +0.042 C 
+ATOM     16  S   LIG    1      -64.376  14.965  27.473  0.00  0.00    +0.021 S 
+ENDBRANCH   6  14
+TORSDOF 2
+ENDMDL

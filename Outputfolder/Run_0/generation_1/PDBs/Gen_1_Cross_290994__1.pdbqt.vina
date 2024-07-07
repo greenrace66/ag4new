@@ -1,0 +1,306 @@
+MODEL 1
+REMARK VINA RESULT:      -7.4      0.000      0.000
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -70.839  21.644  26.642  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -69.903  21.733  25.577  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -70.123  20.987  24.393  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -69.218  21.044  23.312  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -69.450  20.304  22.151  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -70.582  19.495  22.048  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -71.490  19.422  23.105  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -71.270  20.163  24.279  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -72.181  20.086  25.334  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -71.970  20.816  26.501  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -68.727  22.563  25.660  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -68.755  23.783  25.822  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -68.774  25.002  25.984  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -70.620  22.382  27.820  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -71.521  23.328  28.395  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -72.421  25.015  26.529  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -72.016  24.253  27.370  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.2      2.321      3.074
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -69.658  22.487  26.850  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -70.819  21.679  26.970  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -71.236  20.891  25.869  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -72.385  20.075  25.945  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -72.782  19.303  24.851  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -72.044  19.331  23.667  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -70.906  20.132  23.569  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -70.494  20.913  24.662  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -69.354  21.713  24.560  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -68.940  22.490  25.638  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -71.597  21.632  28.185  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -72.239  22.584  28.628  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -72.885  23.530  29.077  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -69.245  23.273  27.941  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -69.022  24.683  27.921  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -71.152  25.950  26.922  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -70.191  25.378  27.372  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.8      2.768      3.867
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -69.889  22.677  27.323  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -71.021  21.821  27.367  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -71.330  21.016  26.243  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -72.447  20.153  26.244  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -72.736  19.364  25.128  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -71.923  19.423  23.996  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -70.815  20.271  23.973  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -70.510  21.069  25.089  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -69.400  21.915  25.060  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -69.093  22.710  26.162  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -71.875  21.742  28.527  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -71.579  21.142  29.561  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -71.291  20.546  30.598  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -69.583  23.480  28.437  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -68.505  23.271  29.348  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -69.351  23.527  31.870  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -68.969  23.413  30.732  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.4      5.400      9.161
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -72.551  25.459  30.901  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -72.206  26.836  30.962  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -72.717  27.636  32.014  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -72.402  29.008  32.112  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -72.913  29.782  33.156  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -73.745  29.206  34.115  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -74.072  27.851  34.037  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -73.564  27.060  32.993  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -73.894  25.705  32.920  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -73.395  24.914  31.888  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -71.347  27.453  29.983  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -71.755  28.104  29.021  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -72.155  28.757  28.057  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -72.047  24.665  29.856  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -72.819  24.058  28.819  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -72.604  25.458  26.553  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -72.699  24.827  27.575  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.1      5.736      9.171
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -72.206  24.824  31.772  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -72.076  26.185  31.387  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -72.780  27.182  32.106  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -72.681  28.546  31.756  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -73.382  29.516  32.476  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -74.191  29.146  33.551  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -74.305  27.803  33.913  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -73.605  26.816  33.199  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -73.723  25.474  33.565  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -73.033  24.490  32.862  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -71.244  26.591  30.281  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -70.027  26.408  30.231  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -68.812  26.228  30.172  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -71.509  23.832  31.057  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -72.076  22.934  30.104  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -71.581  20.401  30.797  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -71.804  21.544  30.485  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.6      4.254      5.500
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -71.746  24.464  28.960  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -70.431  24.918  29.251  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -69.456  24.933  28.223  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -68.139  25.374  28.469  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -67.190  25.384  27.443  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -67.536  24.955  26.162  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -68.833  24.513  25.897  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -69.798  24.498  26.918  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -71.094  24.055  26.648  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -72.056  24.037  27.654  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -70.051  25.367  30.567  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -69.824  24.613  31.514  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -69.594  23.867  32.464  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -72.713  24.445  29.981  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -74.096  24.766  29.830  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -74.671  27.040  31.110  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -74.412  26.013  30.533  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.1      5.138      8.202
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -70.747  24.787  30.100  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -71.311  26.038  30.468  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -72.238  26.097  31.537  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -72.823  27.318  31.934  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -73.734  27.359  32.992  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -74.078  26.188  33.668  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -73.513  24.969  33.291  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -72.594  24.913  32.230  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -72.031  23.691  31.857  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -71.120  23.627  30.806  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -70.969  27.262  29.784  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -71.699  27.819  28.964  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -72.422  28.383  28.143  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -69.829  24.727  29.036  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -69.364  23.538  28.397  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -67.025  22.774  29.438  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -68.080  23.119  28.967  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.9      3.439      4.600
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -69.976  22.673  28.925  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -68.605  22.896  28.628  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -68.178  22.907  27.277  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -66.826  23.125  26.937  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -66.423  23.134  25.599  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -67.355  22.926  24.583  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -68.697  22.708  24.896  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -69.118  22.697  26.237  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -70.462  22.479  26.545  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -70.887  22.466  27.871  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -67.624  23.115  29.662  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -67.140  22.218  30.353  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -66.652  21.328  31.047  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -70.400  22.658  30.266  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -70.574  23.801  31.102  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -69.940  23.216  33.631  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -70.227  23.479  32.490  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.7      5.157      7.377
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_290994__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1      -68.772  23.621  29.243  0.00  0.00    +0.155 A 
+ATOM      2  C   LIG    1      -68.054  23.947  30.424  0.00  0.00    +0.196 A 
+ATOM      3  C   LIG    1      -67.086  24.981  30.388  0.00  0.00    +0.018 A 
+ATOM      4  C   LIG    1      -66.349  25.336  31.538  0.00  0.00    +0.011 A 
+ATOM      5  C   LIG    1      -65.400  26.360  31.485  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1      -65.169  27.043  30.291  0.00  0.00    +0.001 A 
+ATOM      7  C   LIG    1      -65.886  26.708  29.142  0.00  0.00    +0.008 A 
+ATOM      8  C   LIG    1      -66.845  25.682  29.180  0.00  0.00    -0.015 A 
+ATOM      9  C   LIG    1      -67.560  25.350  28.027  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1      -68.511  24.334  28.057  0.00  0.00    +0.049 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  N   LIG    1      -68.276  23.255  31.670  0.00  0.00    +0.120 NA
+ATOM     12  N   LIG    1      -69.121  23.587  32.501  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1      -69.965  23.912  33.336  0.00  0.00    -0.328 NA
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  O   LIG    1      -69.730  22.592  29.277  0.00  0.00    -0.477 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1      -71.079  22.717  29.727  0.00  0.00    +0.317 C 
+BRANCH  15  17
+ATOM     16  C   LIG    1      -72.290  24.749  28.485  0.00  0.00    +0.007 C 
+ATOM     17  C   LIG    1      -71.745  23.833  29.046  0.00  0.00    -0.065 C 
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   1  14
+TORSDOF 4
+ENDMDL

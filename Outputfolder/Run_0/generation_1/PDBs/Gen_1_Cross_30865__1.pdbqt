@@ -1,0 +1,26 @@
+REMARK  Name = /home/mpavan/autogrow4-4.0.3/Outputfolder/Run_0/generation_1/PDBs/Gen_1_Cross_30865__1.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1        1.886   1.588   0.632  0.00  0.00    +0.001 A 
+ATOM      2  C   LIG    1        0.578   1.491   0.156  0.00  0.00    +0.011 A 
+ATOM      3  C   LIG    1       -0.061   0.236   0.053  0.00  0.00    +0.017 A 
+ATOM      4  C   LIG    1       -1.385   0.107  -0.445  0.00  0.00    +0.155 A 
+ATOM      5  C   LIG    1       -2.019  -1.136  -0.399  0.00  0.00    +0.038 A 
+ATOM      6  C   LIG    1       -1.348  -2.267   0.059  0.00  0.00    +0.038 A 
+ATOM      7  C   LIG    1       -0.017  -2.181   0.499  0.00  0.00    +0.155 A 
+ATOM      8  C   LIG    1        0.630  -0.925   0.507  0.00  0.00    +0.017 A 
+ATOM      9  C   LIG    1        1.953  -0.802   0.978  0.00  0.00    +0.011 A 
+ATOM     10  C   LIG    1        2.575   0.445   1.031  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   4  11
+ATOM     11  N   LIG    1       -2.122   1.202  -1.008  0.00  0.00    +0.116 NA
+ATOM     12  N   LIG    1       -1.622   1.976  -1.826  0.00  0.00    -0.009 NA
+ATOM     13  N   LIG    1       -1.126   2.747  -2.646  0.00  0.00    -0.328 NA
+ENDBRANCH   4  11
+BRANCH   7  14
+ATOM     14  N   LIG    1        0.680  -3.352   0.958  0.00  0.00    +0.116 NA
+ATOM     15  N   LIG    1        0.162  -4.470   0.975  0.00  0.00    -0.009 NA
+ATOM     16  N   LIG    1       -0.355  -5.586   0.992  0.00  0.00    -0.328 NA
+ENDBRANCH   7  14
+TORSDOF 2
